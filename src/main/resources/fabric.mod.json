@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "entitylogger",
+  "version": "1.2.1",
+  "name": "Entity Logger",
+  "description": "Loggt Positionen von Spielern und Mobs.",
+  "authors": ["MMFB"],
+  "entrypoints": {
+    "client": [
+        "com.MMFB.entitylogger.EntityLogger"
+    ]
+}
+,
+  "depends": {
+    "fabric": "*"
+  }
+}
+
