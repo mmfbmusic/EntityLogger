@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "entitylogger",
-  "version": "1.3.0",
+  "version": "1.3.2",
   "name": "Entity Logger",
   "description": "Loggt Positionen von Spielern und Mobs.",
   "authors": ["MMFB"],
